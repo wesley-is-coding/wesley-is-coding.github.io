@@ -64,6 +64,15 @@ min-height:100%;
   padding: 100px 0 0 0;
 }
 
+a.link-text:link {
+    text-decoration: none;
+    color: floralwhite;
+}
+
+a.link-text:hover {
+    color: orangered;
+}
+
 .boxer {
     background-color: floralwhite;
     background-clip: content-box;
