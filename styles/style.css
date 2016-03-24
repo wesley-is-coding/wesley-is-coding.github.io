@@ -4,7 +4,7 @@ background-repeat:no-repeat;
 /* custom background-position */
 background-position:50% 50%;
 /* ie8- graceful degradation */
-background-position:50% 50% !important;
+background-position:50% 50%9 !important;
 }
 
 html, body {
@@ -250,20 +250,6 @@ div.circle-avatar{
 
  .row-mid {
    background-color: #cb694D;
- }
-
- #main-content2 {
-   color:floralwhite;
-   background-image: url("https://40.media.tumblr.com/3015e03f0a26adcd2417f4c74f41dacb/tumblr_o2rapwHAtw1v8dj64o2_r1_1280.png");
- 	min-height: 60%;
- 	background-size: cover;
- 	background-attachment: fixed;
- 	background-repeat: no-repeat;
- 	background-position: center center;
-   padding: 50px;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
  }
 
  body {
