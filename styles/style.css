@@ -109,6 +109,26 @@ a.link-text:hover {
     padding: 0 0 50px 0;
 }
 
+.fill-text {
+  color: floralwhite;
+}
+
+.stoic-quote {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://68.media.tumblr.com/ff4e13424b128738bf89b7a04f129886/tumblr_o4v4dia6UF1v8dj64o2_1280.png'); 
+  background-size: cover; 
+  background-position: center;
+  -webkit-transition: background 2s ease-out;
+  -moz-transition: background 2s ease-out;
+  -o-transition: background 2s ease-out;
+  transition: background 2s ease-out;
+}
+
+.stoic-quote:hover {
+  background: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.8)), url('https://68.media.tumblr.com/ff4e13424b128738bf89b7a04f129886/tumblr_o4v4dia6UF1v8dj64o2_1280.png');
+  background-size: cover; 
+  background-position: center;
+}
+
 #hometown {
     position: absolute;
     bottom: 0;
